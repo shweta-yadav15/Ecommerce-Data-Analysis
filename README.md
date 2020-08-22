@@ -1,6 +1,6 @@
-# Sales_Prediction
+# Brazilian E-Commerce Public Dataset by Olist
 
-## Motivationn
+## Motivation
 This project deals with many real-world challenges faced by e-commerce websites that includes predictin customer lifetime value using RFM score and k-means clustering, customer segmentation to find out best valued customers. Also, predicting review score they customers will give to their order experience depending on their location, order cost and other factors. I have also done a detailed analysis of how geolocation can affect user's experience and their purchase and much more.
 
 ---
