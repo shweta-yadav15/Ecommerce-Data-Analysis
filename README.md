@@ -17,17 +17,17 @@ This is the file-folder structure of the project.
 
 ```
 .
-├── app     
-│   ├── run.py                           #Flask file that runs app
-│   └── templates   
-│       ├── go.html                      #Classification result page of web app
-│       └── master.html                  #Main page of web app    
-├── data                   
-│   ├── disaster_categories.csv          #Dataset including all the categories  
-│   ├── disaster_messages.csv            #Dataset including all the messages
-│   └── process_data.py                  #Data cleaning
-├── models
-│   └── train_classifier.py              #Training ML model           
+├── preprocessing_analysis     
+│   ├── geolocation_analysis.ipynb                        #Detailed analysis related to geolocation of a customer
+│   └── overall_data_analysis.ipynb                       #Data analysis from all the files to better understand data
+|   └── understanding_metrics.ipynb                       #Metrics like new customer vs old customers
+|
+├── predictions                   
+│   ├── customer_lifetime_value_prediction.ipynb          #Predicting which customer is most important to act accordingly  
+│   └──predicting_customer_satisfaction                   #Customer review score prediction
+|
+├── customer_segmentation.ipynb                           #Dividing customers as active, non active using RFM matrix
+│           
 └── README.md
 ```
 ---
