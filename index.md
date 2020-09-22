@@ -19,8 +19,7 @@ The project is divided into two parts:
 
 # Part 1: Analysis
 Few instances of the analysis performed are as follows:
-* ![Overall_Study](https://github.com/shweta-yadav15/Ecommerce-Data-Analysis/blob/master/1.png)
-
+* ![Overall_Study](https://user-images.githubusercontent.com/33171500/93948439-b14fa880-fcfb-11ea-84af-6e86ebf28120.png)
 
 
 
