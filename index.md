@@ -1,8 +1,6 @@
 ## Background
 
-E Commerce industry is forecasted to double in size within the next two years and grow from 3.53 trillion US dollars in retail ecommerce sales in 2019, up to 6.54 trillion US dollars in 2022. According to Statista, the number of people buying goods and services online is expected to reach 2.14 billion in 2021, up from 1.66 billion global digital buyers in 2016.
-
-The key drivers of success over the next decade will be centered on building a deep understanding of and connection to the empowered consumer, and the only way to understand consumer behavior is to measure and analyze. 
+E Commerce industry is forecasted to double in size within the next two years and grow from 3.53 trillion US dollars in retail ecommerce sales in 2019, up to 6.54 trillion US dollars in 2022. The key drivers of success over the next decade will be centered on building a deep understanding of and connection to the empowered consumer, and the only way to understand consumer behavior is to measure and analyze. 
 
 ## Motivation
 
@@ -21,7 +19,7 @@ The project is divided into two parts:
 
 # Part 1: Analysis
 Few instances of the analysis performed are as follows:
-* ![Overall_Study](https://github.com/shweta-yadav15/Ecommerce-Data-Analysis/blob/master/1.png)
+* ![Overall_Study](/master/1.png)
 
 
 
