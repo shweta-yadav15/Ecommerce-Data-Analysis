@@ -19,7 +19,30 @@ The project is divided into two parts:
 
 # Part 1: Analysis
 Few instances of the analysis performed are as follows:
-* ![Overall_Study](https://user-images.githubusercontent.com/33171500/93948439-b14fa880-fcfb-11ea-84af-6e86ebf28120.png)
+* 
+![Overall_Study](https://user-images.githubusercontent.com/33171500/93948439-b14fa880-fcfb-11ea-84af-6e86ebf28120.png)
+*
+![Overall_Study](https://user-images.githubusercontent.com/33171500/93948895-d4c72300-fcfc-11ea-9cf5-c30e4c7bc148.png)
+*
+![Overall_Study](https://user-images.githubusercontent.com/33171500/93948934-eb6d7a00-fcfc-11ea-8a29-a4f052927370.png)
+*
+![Overall_Study](https://user-images.githubusercontent.com/33171500/93948937-edcfd400-fcfc-11ea-8be8-15ae5e3521cd.png)
+*
+![Overall_Study](https://user-images.githubusercontent.com/33171500/93948977-0809b200-fcfd-11ea-9fc3-f4d1d4260d97.png)
+*
+![Overall_Study](https://user-images.githubusercontent.com/33171500/93948981-093adf00-fcfd-11ea-8c33-4bfd19192380.png)
+*
+![Overall_Study](https://user-images.githubusercontent.com/33171500/93949014-1d7edc00-fcfd-11ea-8abb-6bea8d0e663b.png)
+*
+![Overall_Study](https://user-images.githubusercontent.com/33171500/93949016-1eb00900-fcfd-11ea-859e-40f5cac9504d.png)
+*
+![Overall_Study](https://user-images.githubusercontent.com/33171500/93949045-31c2d900-fcfd-11ea-85a9-14a4ee60614b.png)
+*
+![Overall_Study](https://user-images.githubusercontent.com/33171500/93949050-32f40600-fcfd-11ea-8a44-2dbbab31dec0.png)
+*
+![Overall_Study](https://user-images.githubusercontent.com/33171500/93949055-34253300-fcfd-11ea-9a26-ecac726a80e3.png)
+
+
 
 
 
