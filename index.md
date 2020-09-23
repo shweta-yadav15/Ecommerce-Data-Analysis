@@ -22,34 +22,42 @@ Few instances of the analysis performed are as follows:
 
 ![Overall_Study](https://user-images.githubusercontent.com/33171500/93948439-b14fa880-fcfb-11ea-84af-6e86ebf28120.png)
 
+
+![Overall_Study](https://user-images.githubusercontent.com/33171500/93949050-32f40600-fcfd-11ea-8a44-2dbbab31dec0.png)
+
+
 * There is an upward trend in orders purchased between January 2017 and July 2018.
 
 ![Overall_Study](https://user-images.githubusercontent.com/33171500/93949055-34253300-fcfd-11ea-9a26-ecac726a80e3.png)
 
-* Unfortunately, who lives in the north and northeast of Brazil has to bear with higher freight costs and has to wait longer to receive their purchase.
+* Unfortunately, customers who live in the north and northeast of Brazil has to bear with higher freight costs and has to wait longer to receive their purchase.
 
 ![Overall_Study](https://user-images.githubusercontent.com/33171500/93948934-eb6d7a00-fcfc-11ea-8a29-a4f052927370.png)
 
-* As the consequence of late delivery customers in north side are likely to give lower reviews.
+* The consequence of late delivery is that the customers in north side are likely to give lower reviews.
+
 ![Overall_Study](https://user-images.githubusercontent.com/33171500/93948895-d4c72300-fcfc-11ea-9cf5-c30e4c7bc148.png)
 
-* Most of the revenue came from the Southeast and South regions of Brazil. Also, large cities and capitals, where population is bigger, have larger participation on revenue.
+* Most of the revenue is coming from the Southeast and South regions of Brazil. Also, large cities and capitals, where population is bigger, have larger participation on revenue.
+
 ![Overall_Study](https://user-images.githubusercontent.com/33171500/93948937-edcfd400-fcfc-11ea-8be8-15ae5e3521cd.png)
 
-* Monthly retention rate shows if customers continue to buy products from the website. There is a upward linear trend but with few major exceptions.
+* Monthly retention rate shows whether customers continue to buy products from the website r not. There is an upward linear trend here but with few major exceptions.
+
 ![Overall_Study](https://user-images.githubusercontent.com/33171500/93948977-0809b200-fcfd-11ea-9fc3-f4d1d4260d97.png)
 
-* Monday blues are showing effects even here. Customers seem to most likely buy on Monday then any other day of the week.
+* Even here monday blues are showing effects. Customers seem to most likely buy on Monday then any other day of the week.
+
 ![Overall_Study](https://user-images.githubusercontent.com/33171500/93948981-093adf00-fcfd-11ea-8c33-4bfd19192380.png)
 
 * Afternoon boredom is making customers buy items mostly in afternoons.
+
 ![Overall_Study](https://user-images.githubusercontent.com/33171500/93949016-1eb00900-fcfd-11ea-859e-40f5cac9504d.png)
 
 * Company seems to be doing well in terms of delivery time since most of the orders are getting delivered way before they are expected.
+
 ![Overall_Study](https://user-images.githubusercontent.com/33171500/93949045-31c2d900-fcfd-11ea-85a9-14a4ee60614b.png)
 
-*
-![Overall_Study](https://user-images.githubusercontent.com/33171500/93949050-32f40600-fcfd-11ea-8a44-2dbbab31dec0.png)
 
 
 
