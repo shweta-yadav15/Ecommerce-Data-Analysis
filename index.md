@@ -4,7 +4,7 @@ E Commerce industry is forecasted to double in size within the next two years an
 
 ## Motivation
 
-This project deals with many real-world challenges faced by e-commerce websites that includes predicting customer lifetime value using RFM score and k-means clustering, customer segmentation to find out best valued customers. Also, predicting review score they customers will give to their order experience depending on their location, order cost and other factors. I have also done a detailed analysis of how geolocation can affect user's experience and their purchase and much more.
+This project deals with many real-world challenges faced by e-commerce websites that includes predicting customer lifetime value using RFM score and k-means clustering, customer segmentation to find out best valued customers. Also, predicting review score that customers will give to their order experience depending on their location, order cost and other factors. I have also done a detailed analysis of how geolocation can affect user's experience and their purchase and much more.
 
 ## Dataset
 
@@ -28,19 +28,19 @@ Few instances of the analysis performed are as follows:
 
 * There is an upward trend in orders purchased between January 2017 and July 2018.
 
-![Overall_Study](https://user-images.githubusercontent.com/33171500/93949055-34253300-fcfd-11ea-9a26-ecac726a80e3.png)
+![Overall_Study](https://user-images.githubusercontent.com/33171500/94201775-b470a300-fe79-11ea-9a28-f1ce486a3e37.png)
 
 * Unfortunately, customers who live in the north and northeast of Brazil has to bear with higher freight costs and has to wait longer to receive their purchase.
 
-![Overall_Study](https://user-images.githubusercontent.com/33171500/93948934-eb6d7a00-fcfc-11ea-8a29-a4f052927370.png)
+![Overall_Study](https://user-images.githubusercontent.com/33171500/94201805-bcc8de00-fe79-11ea-8ce8-b1f2765baa78.png)
 
 * The consequence of late delivery is that the customers in north side are likely to give lower reviews.
 
-![Overall_Study](https://user-images.githubusercontent.com/33171500/93948895-d4c72300-fcfc-11ea-9cf5-c30e4c7bc148.png)
+![Overall_Study](https://user-images.githubusercontent.com/33171500/94201827-c4888280-fe79-11ea-9f82-d89287ebe4ae.png)
 
 * Most of the revenue is coming from the Southeast and South regions of Brazil. Also, large cities and capitals, where population is bigger, have larger participation on revenue.
 
-![Overall_Study](https://user-images.githubusercontent.com/33171500/93948937-edcfd400-fcfc-11ea-8be8-15ae5e3521cd.png)
+![Overall_Study](https://user-images.githubusercontent.com/33171500/94201844-ca7e6380-fe79-11ea-9c92-f567882fd6c9.png)
 
 * Monthly retention rate shows whether customers continue to buy products from the website r not. There is an upward linear trend here but with few major exceptions.
 
@@ -52,7 +52,7 @@ Few instances of the analysis performed are as follows:
 
 * Afternoon boredom is making customers buy items mostly in afternoons.
 
-![Overall_Study](https://user-images.githubusercontent.com/33171500/93949016-1eb00900-fcfd-11ea-859e-40f5cac9504d.png)
+![Overall_Study](https://user-images.githubusercontent.com/33171500/94202035-20eba200-fe7a-11ea-8aeb-63dca33cc5c0.png)
 
 * Company seems to be doing well in terms of delivery time since most of the orders are getting delivered way before they are expected.
 
