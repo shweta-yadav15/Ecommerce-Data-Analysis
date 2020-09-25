@@ -72,11 +72,11 @@ The main hypothesis is that the product and how the order was fulfilled might in
 **Designing an Experiment
 To answer that question data is collected from each order from placing the order up to the delivery phase. With that, the model implemented estimates what will be the score given by the customer at the review phase.**
 
-                                                  Purchase   -->   Transport   -->   Delivery   -->    Review
-                                                    [ Extract Features ]                [ Make Prediction ]
+  Purchase   -->   Transport   -->   Delivery   -->    Review
+      [ Extract Features ]                [ Make Prediction ]
 
 ### 2.1.1 Cleaning and Feature Engineering
-[data](https://user-images.githubusercontent.com/33171500/94206088-dbcb6e00-fe81-11ea-91a5-340233891e74.png)
+![data](https://user-images.githubusercontent.com/33171500/94206088-dbcb6e00-fe81-11ea-91a5-340233891e74.png)
 
 The data was a mix of categorical, numerical values as well as null values in 9 columns. In order to guarantee that the same transformation is applied to new/unseen data, I created custom transformers using scikit-learn BaseEstimator. Also, seven new features were engineered for better results: Working Days Estimated Delivery Time, Actual Delivery Time, Delivery Time, Is Late, Average Product Value, Total Order Value, Order Freight Ratio and Purchase Day of Week.
 
@@ -98,16 +98,16 @@ There are three segments of customers:
 As the methodology, we need to calculate Recency, Frequency and Monetary Value (Revenue from now on) and apply unsupervised machine learning to identify different groups (clusters) for each.
 
 ### 2.2.1 Recency - To calculate recency, I used most recent purchase date of each customer and see how many days they are inactive for. After having no. of inactive days for each customer, applied K-means clustering to assign customers a recency score.
-[pic](https://user-images.githubusercontent.com/33171500/94212238-dcb7cc00-fe90-11ea-91e2-a34f2d1832b9.png)
+![pic](https://user-images.githubusercontent.com/33171500/94212238-dcb7cc00-fe90-11ea-91e2-a34f2d1832b9.png)
 
 ### 2.2.2 Frequency - To create frequency clusters, found total number orders for each customer.
-[pic](https://user-images.githubusercontent.com/33171500/94212240-de818f80-fe90-11ea-9613-ef307c76f978.png)
+![pic](https://user-images.githubusercontent.com/33171500/94212240-de818f80-fe90-11ea-9613-ef307c76f978.png)
 ### 2.2.3 Revenue - 
-[pic](https://user-images.githubusercontent.com/33171500/94212249-e2adad00-fe90-11ea-811b-5e589ae3f983.png)
+![pic](https://user-images.githubusercontent.com/33171500/94212249-e2adad00-fe90-11ea-811b-5e589ae3f983.png)
 
-[pic](https://user-images.githubusercontent.com/33171500/94212296-040e9900-fe91-11ea-969c-efd3878ca7fa.png)
-[pic](https://user-images.githubusercontent.com/33171500/94212304-07098980-fe91-11ea-85ca-5a16c9c4fadc.png)
-[pic](https://user-images.githubusercontent.com/33171500/94212308-0a047a00-fe91-11ea-8d9d-3a41111c627b.png)
+![pic](https://user-images.githubusercontent.com/33171500/94212296-040e9900-fe91-11ea-969c-efd3878ca7fa.png)
+![pic](https://user-images.githubusercontent.com/33171500/94212304-07098980-fe91-11ea-85ca-5a16c9c4fadc.png)
+![pic](https://user-images.githubusercontent.com/33171500/94212308-0a047a00-fe91-11ea-8d9d-3a41111c627b.png)
 
 ## 2.3 Customer Lifetime Value Prediction
 We invest in customers (acquisition costs, offline ads, promotions, discounts & etc.) to generate revenue and be profitable. Naturally, these actions make some customers super valuable in terms of lifetime value but there are always some customers who pull down the profitability. We need to identify these behavior patterns, segment customers and act accordingly.
