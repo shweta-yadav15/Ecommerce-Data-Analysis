@@ -16,11 +16,8 @@ The project is divided into two parts:
 # Part 1: Analysis and Visualizations
 Few instances of the analysis performed are as follows:
 
-* 
 ![Overall_Study](https://user-images.githubusercontent.com/33171500/93948439-b14fa880-fcfb-11ea-84af-6e86ebf28120.png)
-
-
-* 
+ 
 ![Overall_Study](https://user-images.githubusercontent.com/33171500/93949050-32f40600-fcfd-11ea-8a44-2dbbab31dec0.png)
 
 
@@ -68,7 +65,7 @@ The model helps to find a way to estimate that i.e. based on data about the prod
 **Designing an Experiment:<br>
 To answer the question data is collected from each order.From placing the order up to the delivery phase. With that, the model implemented estimates what will be the score given by the customer at the review phase.**
 
-  Purchase   -->   Transport   -->   Delivery   -->    Review<br>
+  Purchase   -->   Transport   -->   Delivery   -->   Review<br>
       [ Extract Features ]             [ Make Prediction ]
 
 ### 2.1.1 Cleaning and Feature Engineering
@@ -150,7 +147,7 @@ Then used XGBoost to do the classification. Since there are3 groups, it is a mul
 
 ![pic](https://user-images.githubusercontent.com/33171500/94217378-17c0fc00-fe9f-11ea-9e7e-36dc7800ae69.png)
 
-I am getting 99% accuracy score on both train and test set which is odd. I need to investigate, future course of action is:
+I am getting 99% accuracy score on both train and test set which is odd. I need to investigate this. The future course of action is:
 - Adding more features and improve feature engineering
 - Try different models other than XGBoost
 - Apply hyper parameter tuning to current model
